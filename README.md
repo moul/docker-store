@@ -1,5 +1,7 @@
 # Docker Store
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/docker-store.svg)](https://www.guardrails.io)
+
 A data store:
 
 - push files via FTP/SFTP
